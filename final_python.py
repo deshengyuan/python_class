@@ -1,4 +1,4 @@
-#####password generor
+#####password generator
 import random
 import string
 
